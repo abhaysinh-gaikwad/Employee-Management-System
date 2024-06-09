@@ -1,4 +1,4 @@
-# Employee-Management-System
+# Employee Management System
 
 ## Overview
 
@@ -30,35 +30,21 @@ This project is an Express.js RESTful API backend with MongoDB, designed to mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhaysinh-gaikwad/Employee-Management-System.git
+   git clone 
    ```
-
 2. Install dependencies:
 
-```bash
+bash
+Copy code
 npm install
-```
-3. Set up environment variables:
+Set up environment variables:
 
-```bash
 Create a .env file based on the .env.example template.
 Add your MongoDB connection URI and JWT secret key.
-```
-4. Run the server:
+Run the server:
 
-```bash
+bash
+Copy code
 npm start
-```
-
-5. API Documentation
-
-- Swagger documentation can be accessed at 
-```bash
-https://all-backend-servers.onrender.com/api-docs
-``` 
-- endpoint after starting the server
-
-```bash
-http://http://localhost:3000/api-docs
-```
-
+API Documentation
+Swagger documentation can be accessed at /api-docs endpoint after starting the server.
