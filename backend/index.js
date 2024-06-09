@@ -12,7 +12,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-// API routes
+// API rosutes
 app.use('/users', userRouter);
 app.use('/employee', employeeRouter);
 
