@@ -15,6 +15,11 @@ This project is an Express.js RESTful API backend with MongoDB, designed to mana
  https://all-backend-servers.onrender.com
  ```
 
+ ### SwaggerDoc
+ ```bash
+ https://all-backend-servers.onrender.com/api-docs/
+ ```
+
 ## Tech Stack
 
 - Node.js
@@ -74,7 +79,7 @@ https://all-backend-servers.onrender.com/api-docs
 ```bash
 http://http://localhost:3000/api-docs
 ```
-6. Endpoints
+6. # Endpoints
 ### User Routes
 
 - Signup
